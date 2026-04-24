@@ -34,7 +34,3 @@ This project is a modern take on the classic "Snakes and Ladders" mechanics. Pla
   4. Players take turns automatically.
   5. Each round is printed into the terminal until a player wins.
 
-
-
-All teleports are randomly generated with logical constraints to ensure a fair yet challenging game.
-
